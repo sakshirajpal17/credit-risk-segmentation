@@ -8,6 +8,8 @@ End-to-end data pipeline that deduplicates **50,000 credit bureau pulls** into *
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+**Live report → [sakshirajpal17.github.io/credit-risk-segmentation](https://sakshirajpal17.github.io/credit-risk-segmentation/)**
+
 ---
 
 ## Headline Results
