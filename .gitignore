@@ -1,0 +1,25 @@
+# Internal handoff docs — not for public repo
+HANDOFF.md
+SETUP.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Generated data (reproduce via `python scripts/01_generate_data.py`)
+data/raw/*.csv
+data/processed/*.csv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Docker / ClickHouse state
+clickhouse-data/
+metabase-data/
